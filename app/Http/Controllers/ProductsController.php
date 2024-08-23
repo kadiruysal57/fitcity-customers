@@ -19,7 +19,7 @@ class ProductsController extends Controller
         $data['basket'] = Basket::where('customer_id', Auth::user()->id)
             ->get();
 
-        $result = makeApiRequest('https://api.evagym.com/api/card_list',session('api_token'));
+        $result = makeApiRequest('https://api.fitcity.com.tr/api/card_list',session('api_token'));
         $data['card_list'] = json_decode($result['data']);
         $data['city'] = Cities::where('status',1)->get();
         $data['counties_delivery'] = collect();

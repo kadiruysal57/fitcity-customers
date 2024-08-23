@@ -4,7 +4,7 @@
     <div class="main-sidebar-header">
         <a href="{{route('dashboard')}}" class="header-logo">
             <img src="{{asset('/nowa-panel/assets/images/logo.png')}}" alt="logo" class="desktop-logo">
-            <img src="{{asset('/nowa-panel/assets/images/eva-favicon.png')}}" alt="logo" class="toggle-logo">
+            <img src="{{asset('/nowa-panel/assets/images/fitcity-favicon.png')}}" alt="logo" class="toggle-logo">
         </a>
     </div>
     <!-- End::main-sidebar-header -->

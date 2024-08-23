@@ -26,8 +26,8 @@
     <link rel="stylesheet" href="{{asset("panel/assets/css/toastify.css")}}" type="text/css"/>
 
     <!-- Favicons -->
-    <link rel="icon" href="{{asset('nowa-panel/assets/images/eva-favicon.png')}}">
-    <link rel="icon" href="{{asset('nowa-panel/assets/images/eva-favicon.png')}}">
+    <link rel="icon" href="{{asset('nowa-panel/assets/images/fitcity-favicon.png')}}">
+    <link rel="icon" href="{{asset('nowa-panel/assets/images/fitcity-favicon.png')}}">
 
     <style type="text/css">
     </style>

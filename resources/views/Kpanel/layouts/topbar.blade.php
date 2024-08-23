@@ -36,7 +36,7 @@
                             @php
                             $image = 'panel/assets/img/avatar/9.png';
                             if(!empty(\Illuminate\Support\Facades\Auth::user()->image)){
-                                $image = "https://api.evagym.com/storage/profile_photos/42/1MurbVmOlwgoElR9IQSlx6uWaYrRBMPPxl6emOdO.jpg";
+                                $image = "https://api.fitcity.com.tr/storage/profile_photos/42/1MurbVmOlwgoElR9IQSlx6uWaYrRBMPPxl6emOdO.jpg";
                             }
                             @endphp
                             <img src="{{asset($image)}}" alt="img" width="32" height="32"

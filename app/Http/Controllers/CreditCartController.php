@@ -32,7 +32,7 @@ class CreditCartController extends Controller
             }
         }
 
-        $result = makeApiRequest('https://api.evagym.com/api/card_list',session('api_token'));
+        $result = makeApiRequest('https://api.fitcity.com.tr/api/card_list',session('api_token'));
         if($result['success'] == 'true'){
             $data['credits'] = json_decode($result['data']);
             return view('Kpanel.credits.card_list')->with($data);

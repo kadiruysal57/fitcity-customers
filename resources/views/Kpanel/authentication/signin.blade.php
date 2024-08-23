@@ -23,7 +23,7 @@
 
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="{{asset('panel/assets/img/apple-touch-icon.png')}}">
-    <link rel="icon" href="{{asset('nowa-panel/assets/images/eva-favicon.png')}}">
+    <link rel="icon" href="{{asset('nowa-panel/assets/images/fitcity-favicon.png')}}">
     <style type="text/css">
         header {
             background-color: #fff !important;
@@ -46,7 +46,7 @@
             width: 100%;
         }
         header div img {
-            max-width: 200px;
+            max-width: 90px;
         }
         body{
             background-color: #fff !important;

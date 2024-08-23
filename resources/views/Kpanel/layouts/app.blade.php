@@ -6,7 +6,7 @@
 <title>@yield('page-title') - Mockup Soft</title>
 
 <!-- Favicons -->
-<link rel="icon" href="{{asset('nowa-panel/assets/images/eva-favicon.png')}}">
+<link rel="icon" href="{{asset('nowa-panel/assets/images/fitcity-favicon.png')}}">
 
 
 <!-- Choices JS -->
