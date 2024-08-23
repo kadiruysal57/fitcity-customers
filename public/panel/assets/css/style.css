@@ -1,0 +1,49 @@
+.sidebar-profile {
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+body .topbar.hidden-md-up + .main-container,
+body .topbar.hidden-md-up + main {
+  padding-top: 0;
+}
+
+@media (max-width: 767px) {
+  body .topbar.hidden-md-up + .main-container,
+  body .topbar.hidden-md-up + main {
+    padding-top: 64px;
+  }
+}
+
+.select2-container{
+    width: 100% !important;
+}
+
+.border-roles{
+    border: 0.5px solid #cbcbcb;
+    border-radius: 10px;
+    margin: 10px;
+}
+select[readonly]
+{
+    pointer-events: none;
+}
+.csshidden td:nth-child(5){
+    max-width: 60px !important;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.customer_show_body{
+    height: 150px;
+    border: 1px solid #000;
+    margin-top: 10px;
+    padding: 10px;
+    overflow-y: auto;
+}
+.form-group.customersList {
+    border: 1px solid #dedede;
+    padding: 10px;
+    height: 200px;
+    overflow: scroll;
+}

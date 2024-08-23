@@ -1,0 +1,12 @@
+
+@media (max-width:991px) {
+    .d-flex {
+        display: grid!important;
+    }
+    .col-4{
+        width:100% ;
+    }
+}
+.last{
+    padding: 30px;
+}
