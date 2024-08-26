@@ -10,7 +10,7 @@
     <meta name="description" content="Responsive admin dashboard and web application ui kit. ">
     <meta name="keywords" content="login, signin">
 
-    <title>Eva Gym Kayıt Ol</title>
+    <title>Fitcity Kayıt Ol</title>
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,300i" rel="stylesheet">
