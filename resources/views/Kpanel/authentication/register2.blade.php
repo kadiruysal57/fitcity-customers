@@ -366,7 +366,7 @@
                                                 fiyatıyla aylık esnek üyelik olarak yenilenecektir.
                                             </li>
                                             <li>Üyelik sürenin sonu itibariyle üyeliğine devam etmek istemezsen,
-                                                üyeliğinin son ayında EVAGYM aplikasyonu üzerinden veya
+                                                üyeliğinin son ayında Fitcity aplikasyonu üzerinden veya
                                                 portal.macfit.com.tr adresinden üye girişi yaparak iptal talebini
                                                 iletebilir ve ek ücret ödemeden üyeliğini sonlandırabilirsin.
                                             </li>
@@ -384,7 +384,7 @@
                                                 güncellenecektir.
                                             </li>
                                             <li>Üyelikten ayrılmak istersen; ilk üye olduğun günden 2 gün öncesine kadar
-                                                EVAGYM aplikasyonu üzerinden veya portal.macfit.com.tr adresinden üye
+                                                Fitcity aplikasyonu üzerinden veya portal.macfit.com.tr adresinden üye
                                                 girişi yaparak iptal talebini iletebilir ve ek ücret ödemeden üyeliğini
                                                 sonlandırabilirsin.
                                             </li>

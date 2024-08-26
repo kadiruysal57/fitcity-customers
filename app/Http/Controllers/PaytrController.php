@@ -346,7 +346,7 @@ class PaytrController extends Controller
 
                 if (env("SMS_ACTIVE")) {
                     $gsm = str_replace(['(', ')', ' '], ['', '', ''], $request->user()->telefon);
-                    $message = 'Evagym ailesine hoş geldiniz.';
+                    $message = 'Fitcity ailesine hoş geldiniz.';
                     if (substr($gsm, 0, 1) === '0') {
                         $gsm = substr($gsm, 1);
                     }
